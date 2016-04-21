@@ -1,0 +1,11 @@
+center {
+  margin-bottom: 20px;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.btnAdd, .searchBox {
+  margin-bottom: 10px;
+}
